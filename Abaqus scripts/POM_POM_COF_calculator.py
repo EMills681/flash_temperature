@@ -11,7 +11,7 @@ N1 = 1000
 ### Experimental results from:
 # Walton, D., Cropper, A., Weale, D. and Klein Meuleman, P. (2002) 'The efficiency and friction of plastic cylindrical gears Part 1: Influence of materials'
 torque = (3, 5, 7, 10)
-rpm = (500, 1000, 1500, 2000, 2500)
+rpm = (250, 500, 1000, 1500, 2000)
 mu = np.zeros((4,5))
 # torque  = 3
 mu[0,0] = 0.38        ## 250 rpm
