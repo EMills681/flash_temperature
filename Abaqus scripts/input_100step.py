@@ -1,4 +1,8 @@
 # -*- coding: mbcs -*-
+# Creates an Abaqus database for a single gear tooth (1:1 gear ratio) with boundary conditions applied to the meshing surface
+#### Open Abaqus - set the work directory to the location where these python files are stored (file -> set work directory...)
+#### Run this script in Abaqus (file -> run script... -> input_100step)
+
 import geofun
 import flashtfun
 import math
