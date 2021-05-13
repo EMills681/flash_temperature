@@ -1,4 +1,5 @@
 Predict the flash and bulk temperature of a polymer gear (gear ratio: 1:1)
+
 See Python_Abaqus flowchart.png
 
 Default material POM
